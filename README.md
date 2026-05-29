@@ -19,7 +19,7 @@ This is an automatic smart dustbin made using Arduino UNO and an ultrasonic sens
 The ultrasonic sensor detects nearby objects. When a hand comes close, the servo motor rotates and opens the lid automatically.
 
 ## Project Image
-![Smart Dustbin](c88ab55d-4a03-4acd-b736-a9bf1bd058ca.png)
+![Smart Dustbin](SmartDustbin.png)
 
 ## Author
 Sauhard Agnihotri

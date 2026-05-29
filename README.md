@@ -21,5 +21,9 @@ The ultrasonic sensor detects nearby objects. When a hand comes close, the servo
 ## Project Image
 ![Smart Dustbin](SmartDustbin.jpg)
 
+## Project Demo Video
+
+[Watch the Smart Dustbin Demo](https://github.com/Sauhard-Git/Smart-Dustbin-Arduino/blob/main/smartdustbin.mp4)
+
 ## Author
 Sauhard Agnihotri
